@@ -1,2 +1,0 @@
-# gitlabari
-mashallah
